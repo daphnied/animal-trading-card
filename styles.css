@@ -1,0 +1,36 @@
+/* add your CSS here */
+.fact{
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  text-align: inherit;
+  padding-left: 0;
+
+}
+body {
+  border: 2px solid #5b725b;
+  width: 325px;
+box-shadow: 10px 1px 5px 0px
+  #80A080;
+  padding: 10px;
+
+}
+
+h3 {
+  padding: 10px;
+text-align: center;
+}
+
+img {
+  padding: 10px
+}
+.border{
+  border: 2px solid #D3D3D3;
+  padding: 10px;
+}
