@@ -1,1 +1,3 @@
-Animal trading card
+#  Animal Trading Card
+
+Developed using HTML and CSS
